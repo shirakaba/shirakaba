@@ -18,7 +18,7 @@ I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com),
         </tr>
         <tr>
             <td colspan="2" align="center" valign="middle">
-                I have brought Peppa Pig to countless children across the UK by porting the Ketchup video-on-demand app to HbbTV.
+                I have brought Peppa Pig to countless children across the UK by porting the <a href="http://ketchuptv.co.uk">Ketchup</a> video-on-demand app to HbbTV.
             </td>
         </tr>
     </tbody>
