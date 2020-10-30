@@ -18,7 +18,7 @@ I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com),
         </tr>
         <tr>
             <td colspan="2" align="center" valign="middle">
-                I have brought Peppa Pig to countless children across the UK by porting the <a href="http://ketchuptv.co.uk">Ketchup</a> video-on-demand app to HbbTV.
+                I have brought Peppa Pig to countless children across the UK by implementing the <a href="http://ketchuptv.co.uk">Ketchup</a> video-on-demand app for HbbTV.
             </td>
         </tr>
     </tbody>
@@ -48,6 +48,9 @@ I'm also an avid open-source contributor with a deep interest in cross-platform 
 
 * [React NativeScript](https://github.com/shirakaba/react-nativescript), a React Native alternative
 * [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) (repo currently private), an Electron alternative
+* [NS:IDE](https://github.com/shirakaba/nside) a NativeScript REPL for accessing native functionality via JavaScript
+
+I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
 
 <!--
 
