@@ -36,7 +36,7 @@
         </tr>
         <tr>
             <td colspan="2" align="center" valign="middle">
-                I make LinguaBrowse, an <a href="https://apps.apple.com/gb/app/linguabrowse/id1281350165">iOS web browser</a> and <a href="https://apps.apple.com/us/app/linguabrowse/id1422884180">macOS Safari Extension</a> for the foreign-language web.
+                I make LinguaBrowse, an <a href="https://apps.apple.com/gb/app/linguabrowse/id1281350165">iOS web browser</a> and <a href="https://apps.apple.com/us/app/linguabrowse/id1422884180">macOS Safari Extension</a> for browsing the foreign-language web.
             </td>
         </tr>
     </tbody>
