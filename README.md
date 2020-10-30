@@ -1,7 +1,5 @@
 <p align="center">
-    <img src="https://gpvc.arturio.dev/shirakaba" alt="profile views"> •  
-    <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/LinguaBrowse?label=%40LinguaBrowse&style=social"></a>  •
-    <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton">Twitter</a>
+    <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/LinguaBrowse?label=%40LinguaBrowse&style=social"></a>
 </p>
 
 💼 I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs and supporting infrastructure (e.g. video encoding as a service).
@@ -54,7 +52,7 @@
 
 🎲 In my spare time (because I must convince myself that I am a well rounded person), I enjoy Euro-style board games, [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, cook this-and-that, walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
 
-📫 Feel free to send me a message on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
+📫 Feel free to contact me on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
 
 Frequent technologies:
 
