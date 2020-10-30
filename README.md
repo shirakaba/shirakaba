@@ -4,7 +4,7 @@
     <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton">Twitter</a>
 </p>
 
-I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs and supporting infrastructure (e.g. video encoding as a service).
+💼 I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs and supporting infrastructure (e.g. video encoding as a service).
 
 <table>
     <tbody>
@@ -24,7 +24,7 @@ I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com),
     </tbody>
 </table>
 
-In my spare time, I enjoy studying Japanese and Chinese, and even make apps to help me learn them.
+📚 As hobby projects, I enjoy studying Japanese and Chinese, and even make apps to help me learn them.
 
 <table>
     <tbody>
@@ -44,28 +44,29 @@ In my spare time, I enjoy studying Japanese and Chinese, and even make apps to h
     </tbody>
 </table>
 
-I'm also an avid open-source contributor with a deep interest in cross-platform app development. I'm currently building:
+👨🏻‍🔧 I'm also an avid open-source contributor with a deep interest in cross-platform app development. I'm currently building:
 
-* [React NativeScript](https://github.com/shirakaba/react-nativescript), a React Native alternative
-* [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) (repo currently private), an Electron alternative
-* [NS:IDE](https://github.com/shirakaba/nside) a NativeScript REPL for accessing native functionality via JavaScript
+* [React NativeScript](https://github.com/shirakaba/react-nativescript) – a React Native alternative
+* [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) (repo currently private) – an Electron alternative
+* [NS:IDE](https://github.com/shirakaba/nside) – a NativeScript REPL for accessing native functionality via JavaScript
 
-I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
+👥 I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
 
-<!--
+🎲 In my spare time, I like 
 
-I've implemented tests for the [HbbTV Specification](https://www.hbbtv.org/working-groups/#steering-group), 
+📫 Feel free to send me a message on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
 
-**shirakaba/shirakaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frequent technologies:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/-React_Native-292C34?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="NativeScript" src="https://img.shields.io/badge/-NativeScript-485FFC?style=flat-square&logo=nativescript&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-D15F3C?style=flat-square&logo=Swift&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
