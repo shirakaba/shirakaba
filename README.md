@@ -4,11 +4,33 @@
     <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton">Twitter</a>
 </p>
 
-I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs (similar to the Netflix and BBC Red Button apps) and supporting infrastructure (e.g. video encoding as a service).
+I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs and supporting infrastructure (e.g. video encoding as a service).
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="middle">
+                <img width="400px" src="/img/ketchup_menu.png"/>
+            </td>
+            <td align="center" valign="middle">
+                <img width="400px" src="/img/ketchup_video.png"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center" valign="middle">
+                I have brought Peppa Pig to countless children across the UK by porting the Ketchup video-on-demand app to HbbTV.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+I make LinguaBrowse, a web browser for the foreign-language web.
+
+I'm also an avid open-source contributor.
 
 <!--
 
-I'm also engaged in opensource, 
+I've implemented tests for the [HbbTV Specification](https://www.hbbtv.org/working-groups/#steering-group), 
 
 **shirakaba/shirakaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
