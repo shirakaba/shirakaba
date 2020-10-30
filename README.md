@@ -1,6 +1,15 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://gpvc.arturio.dev/shirakaba" alt="profile views"> •  
+    <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/LinguaBrowse?label=%40LinguaBrowse&style=social"></a>  •
+    <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton">Twitter</a>
+</p>
+
+I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs (similar to the Netflix and BBC Red Button apps) and supporting infrastructure (e.g. video encoding as a service).
 
 <!--
+
+I'm also engaged in opensource, 
+
 **shirakaba/shirakaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
