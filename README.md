@@ -50,7 +50,7 @@
 
 👥 I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
 
-🎲 In my spare time (because I must convince myself that I am a well rounded person), I enjoy Euro-style board games, [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, cook this-and-that, walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
+🎲 In my spare time (because I must convince myself that I am a well rounded person), I enjoy Euro-style [tabletop games](https://twitter.com/LinguaBrowse/status/1044578942559039488?s=20), [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, [cook this-and-that](https://twitter.com/LinguaBrowse/status/1294771163797872642?s=20), walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
 
 📫 Feel free to contact me on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
 
