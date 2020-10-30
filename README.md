@@ -24,9 +24,30 @@ I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com),
     </tbody>
 </table>
 
-I make LinguaBrowse, a web browser for the foreign-language web.
+In my spare time, I enjoy studying Japanese and Chinese, and even make apps to help me learn them.
 
-I'm also an avid open-source contributor.
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="middle">
+                <img width="200px" src="/img/linguabrowse_ios000.png"/>
+            </td>
+            <td align="center" valign="middle">
+                <img width="600px" src="/img/linguabrowse_safari000.png"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center" valign="middle">
+                I make LinguaBrowse, an <a href="https://apps.apple.com/gb/app/linguabrowse/id1281350165">iOS web browser</a> and <a href="https://apps.apple.com/us/app/linguabrowse/id1422884180">macOS Safari Extension</a> for the foreign-language web.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+I'm also an avid open-source contributor with a deep interest in cross-platform app development. I'm currently building:
+
+* [React NativeScript](https://github.com/shirakaba/react-nativescript), a React Native alternative
+* [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) (repo currently private), an Electron alternative
 
 <!--
 
