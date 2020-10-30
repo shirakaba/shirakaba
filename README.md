@@ -47,12 +47,12 @@
 👨🏻‍🔧 I'm also an avid open-source contributor with a deep interest in cross-platform app development. I'm currently building:
 
 * [React NativeScript](https://github.com/shirakaba/react-nativescript) – a React Native alternative
-* [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) (repo currently private) – an Electron alternative
+* [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) *(currently private)* – an Electron alternative
 * [NS:IDE](https://github.com/shirakaba/nside) – a NativeScript REPL for accessing native functionality via JavaScript
 
 👥 I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
 
-🎲 In my spare time, I like 
+🎲 In my spare time (because I must convince myself that I am a well rounded person), I enjoy Euro-style board games, [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, cook this-and-that, walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
 
 📫 Feel free to send me a message on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
 
