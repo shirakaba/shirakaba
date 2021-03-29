@@ -45,7 +45,7 @@
 👨🏻‍🔧 I'm also an avid open-source contributor with a deep interest in cross-platform app development. I'm currently building:
 
 * [React NativeScript](https://github.com/shirakaba/react-nativescript) – a React Native alternative
-* [Svelte NodeGUI](https://github.com/shirakaba/svelte-nodegui) *(currently private)* – an Electron alternative
+* [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) – an Electron alternative
 * [NS:IDE](https://github.com/shirakaba/nside) – a NativeScript REPL for accessing native functionality via JavaScript
 
 👥 I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
