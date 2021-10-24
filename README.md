@@ -56,6 +56,12 @@
 * [React Native in NativeScript](https://github.com/nativescript-community/react-native-in-nativescript) – allows you to use React Native in a NativeScript project
 * [NativeScript in React Native](https://github.com/shirakaba/react-native-nativescript-runtime) – allows you to use the NativeScript runtime in a React Native project
 
+🌐 Some web work (most is closed-source):
+
+* [Japanese pitch accent notes](https://jp-pitch-accent.vercel.app/nouns-1-mora) – some notes I took on [Dōgen](https://twitter.com/Dogen)'s Japanese pitch acccent lesson series. This is a limited sample of my full set of notes as I don't want people to use the notes in favour of sitting the real lessons
+* [10ten-ja-reader](https://github.com/birchill/10ten-ja-reader) – I helped port this mouseover Japanese dictionary to iOS (and touchscreen devices)
+
+
 🎲 In my spare time, I enjoy Euro-style [tabletop games](https://twitter.com/LinguaBrowse/status/1044578942559039488?s=20), [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, [cook this-and-that](https://twitter.com/LinguaBrowse/status/1294771163797872642?s=20), walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
 
 📫 Feel free to contact me on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
