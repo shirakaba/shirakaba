@@ -42,15 +42,21 @@
     </tbody>
 </table>
 
-👨🏻‍🔧 I'm also an avid open-source contributor with a deep interest in cross-platform app development. I'm currently building:
+👨🏻‍🔧 I'm also an avid open-source contributor with a deep interest in cross-platform app development. Some highlights:
 
-* [React NativeScript](https://github.com/shirakaba/react-nativescript) – a React Native alternative
-* [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) – an Electron alternative
+* [React Native native runtime](https://github.com/shirakaba/react-native-native-runtime) – a library providing React Native full synchronous access to the iOS (and one day, Android) APIs from the JS context
+* [React NativeScript](https://github.com/shirakaba/react-nativescript) – a React Native alternative, based on [NativeScript](https://github.com/NativeScript/NativeScript)
+* [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) – an Electron alternative, based on [NodeGUI](https://github.com/nodegui/nodegui)
 * [NS:IDE](https://github.com/shirakaba/nside) – a NativeScript REPL for accessing native functionality via JavaScript
+* [React NativeScript Navigation](https://github.com/shirakaba/react-nativescript-navigation/tree/master/react-nativescript-navigation) – React Navigation implemented for React NativeScript
 
-👥 I love to meet other developers and see what they're working on, and so attend various tech meetups. I've even [started my own](https://www.meetup.com/BristolTechClub/) (which you are welcome to join!).
+🏗 Some unfinished ambitious work:
 
-🎲 In my spare time (because I must convince myself that I am a well rounded person), I enjoy Euro-style [tabletop games](https://twitter.com/LinguaBrowse/status/1044578942559039488?s=20), [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, [cook this-and-that](https://twitter.com/LinguaBrowse/status/1294771163797872642?s=20), walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
+* [Expo NativeScript](https://github.com/nativescript-community/expo-nativescript) – an adapter allowing Expo packages to be used in NativeScript (up until [Expo SDK 43](https://blog.expo.dev/expo-sdk-43-aa9b3c7d5541))
+* [React Native in NativeScript](https://github.com/nativescript-community/react-native-in-nativescript) – allows you to use React Native in a NativeScript project
+* [NativeScript in React Native](https://github.com/shirakaba/react-native-nativescript-runtime) – allows you to use the NativeScript runtime in a React Native project
+
+🎲 In my spare time, I enjoy Euro-style [tabletop games](https://twitter.com/LinguaBrowse/status/1044578942559039488?s=20), [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, [cook this-and-that](https://twitter.com/LinguaBrowse/status/1294771163797872642?s=20), walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
 
 📫 Feel free to contact me on Twitter [@LinguaBrowse](https://twitter.com/LinguaBrowse)!
 
