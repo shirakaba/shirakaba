@@ -50,6 +50,7 @@
 * [NS:IDE](https://github.com/shirakaba/nside) – a NativeScript REPL for accessing native functionality via JavaScript
 * [React NativeScript Navigation](https://github.com/shirakaba/react-nativescript-navigation/tree/master/react-nativescript-navigation) – React Navigation implemented for React NativeScript
 * [Mecab for iOS/macOS](https://github.com/shirakaba/iPhone-libmecab) – a library for using Mecab, a C++ text tokeniser for Japanese (and Korean, because it's a fork) in iOS/macOS native projects and React Native projects, via Obj-C and Swift
+* [React Native safe popover](https://github.com/shirakaba/react-native-safe-popover) – a library with no native dependencies for spawning a popover that adheres to the safe area
 
 🏗 Some unfinished ambitious work:
 
