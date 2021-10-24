@@ -49,6 +49,7 @@
 * [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) – an Electron alternative, based on [NodeGUI](https://github.com/nodegui/nodegui)
 * [NS:IDE](https://github.com/shirakaba/nside) – a NativeScript REPL for accessing native functionality via JavaScript
 * [React NativeScript Navigation](https://github.com/shirakaba/react-nativescript-navigation/tree/master/react-nativescript-navigation) – React Navigation implemented for React NativeScript
+* [Mecab for iOS/macOS](https://github.com/shirakaba/iPhone-libmecab) – a library for using Mecab, a C++ text tokeniser for Japanese (and Korean, because it's a fork) in iOS/macOS native projects and React Native projects, via Obj-C and Swift
 
 🏗 Some unfinished ambitious work:
 
@@ -60,6 +61,7 @@
 
 * [Japanese pitch accent notes](https://jp-pitch-accent.vercel.app/nouns-1-mora) – some notes I took on [Dōgen](https://twitter.com/Dogen)'s Japanese pitch acccent lesson series. This is a limited sample of my full set of notes as I don't want people to use the notes in favour of sitting the real lessons
 * [10ten-ja-reader](https://github.com/birchill/10ten-ja-reader) – I helped port this mouseover Japanese dictionary to iOS (and touchscreen devices)
+* [Seiyuu ranker](https://github.com/shirakaba/seiyuu-ranker) – a website allowing you to visualise which voice actors did which work during each anime season
 
 
 🎲 In my spare time, I enjoy Euro-style [tabletop games](https://twitter.com/LinguaBrowse/status/1044578942559039488?s=20), [play guitar](https://youtu.be/4brz7XcW1ko), [draw comics](https://www.deviantart.com/jamie-b/gallery/47082507/nuzlocke-comic), read comics, [cook this-and-that](https://twitter.com/LinguaBrowse/status/1294771163797872642?s=20), walk in the woods, participate in language exchanges and [experiment with streaming](https://youtu.be/Z_K0DfNJUAQ).
