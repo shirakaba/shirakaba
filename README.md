@@ -2,25 +2,7 @@
     <a href="https://twitter.com/intent/follow?screen_name=LinguaBrowse&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/LinguaBrowse?label=%40LinguaBrowse&style=social"></a>
 </p>
 
-💼 I'm a Software Engineer at [Strategy & Technology Ltd](https://www.s-and-t.com), making web apps for Smart TVs and supporting infrastructure (e.g. video encoding as a service).
-
-<table>
-    <tbody>
-        <tr>
-            <td align="center" valign="middle">
-                <img width="400px" src="/img/ketchup_menu.png"/>
-            </td>
-            <td align="center" valign="middle">
-                <img width="400px" src="/img/ketchup_video.png"/>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center" valign="middle">
-                I have brought Peppa Pig to countless children across the UK by implementing the <a href="http://ketchuptv.co.uk">Ketchup</a> video-on-demand app for HbbTV.
-            </td>
-        </tr>
-    </tbody>
-</table>
+💼 I'm a Software Engineer at [Birchill](https://github.com/birchill), building [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) and the ecosystem around it!
 
 📚 As hobby projects, I enjoy studying Japanese and Chinese, and even make apps to help me learn them.
 
