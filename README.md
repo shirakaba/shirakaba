@@ -27,7 +27,7 @@
 
 👨🏻‍🔧 I'm also an avid open-source contributor with a deep interest in cross-platform app development. Some highlights:
 
-* [Open Native](https://github.com/OpenNative/open-native) - a compatibility library, allowing React Native native modules to be used on other platforms like NativeScript
+* [Open Native](https://github.com/OpenNative/open-native) - a polyfill to allow React Native native modules to be used on platforms other than React Native (like NativeScript)
 * [React Native native runtime](https://github.com/shirakaba/react-native-native-runtime) – a library providing React Native full synchronous access to the iOS (and one day, Android) APIs from the JS context
 * [React NativeScript](https://github.com/shirakaba/react-nativescript) – a React Native alternative, based on [NativeScript](https://github.com/NativeScript/NativeScript)
 * [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) – an Electron alternative, based on [NodeGUI](https://github.com/nodegui/nodegui)
