@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td colspan="2" align="center" valign="middle">
-                I make LinguaBrowse, an <a href="https://apps.apple.com/gb/app/linguabrowse/id1281350165">iOS web browser</a> for browsing the foreign-language web, built with React Native.
+                I make LinguaBrowse, a React Native-based <a href="https://apps.apple.com/gb/app/linguabrowse/id1281350165">iOS web browser</a> for browsing the foreign-language web.
             </td>
         </tr>
     </tbody>
