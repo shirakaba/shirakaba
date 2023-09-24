@@ -3,7 +3,7 @@
     <a href="https://techhub.social/@shirakaba" rel="me"><img src="https://img.shields.io/mastodon/follow/109323090318432663?domain=https%3A%2F%2Ftechhub.social&style=social"></a>
 </p>
 
-💼 I'm a Software Engineer based in Japan, currently between jobs!
+💼 I'm a Software Engineer based in Japan, working for [Scoville](https://github.com/scoville)!
 
 📚 As hobby projects, I enjoy studying Japanese and Chinese, and even make apps to help me learn them.
 
