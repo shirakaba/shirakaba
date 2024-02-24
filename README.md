@@ -40,7 +40,7 @@
 
 * [Expo NativeScript](https://github.com/nativescript-community/expo-nativescript) – an adapter allowing Expo packages to be used in NativeScript
 * [React Native in NativeScript](https://github.com/nativescript-community/react-native-in-nativescript) – allows you to use React Native in a NativeScript project
-* [React Native native runtime](https://github.com/shirakaba/react-native-nativescript-runtime) – allows you to use the Obj-C runtime in a React Native project via JSI
+* [React Native native runtime](https://github.com/shirakaba/react-native-native-runtime) – allows you to use the Obj-C runtime in a React Native project via JSI
 
 🌐 Some web work (most is closed-source):
 
